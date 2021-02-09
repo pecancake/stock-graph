@@ -1,14 +1,6 @@
 import csv
 from datetime import datetime
 
-PRICES = {
-    "vfv": 8695,
-    "nok": 470,
-    "hero": 4090,
-    "bb": 1531,
-    "amc": 897,
-    "xeg": 550
-}
 ISUSD = ["amc", "nok", "pltr", "bb"]
 USDTOCAD = 12544
 
